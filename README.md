@@ -31,7 +31,7 @@ The dataset can be downloaded from Google Drive:
 
 - **Platform**: DJI Matrice 300 RTK
 - **Sensor**: DJI Jenmuse L1 LiDAR
-- **Data format**: Cloud Compare (.bin)
+- **Data format**: Cloud Compare (.ply)
 - **Number of samples**: 4 Dataset
 
 ---
