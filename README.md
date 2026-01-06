@@ -1,4 +1,4 @@
-# UAV-LiDAR Dataset
+# UAV-LiDAR Bridge Dataset
 
 UAV-based LiDAR dataset for research on 3D point cloud analysis.
 
