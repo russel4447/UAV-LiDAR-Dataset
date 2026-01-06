@@ -1,20 +1,15 @@
 # UAV-LiDAR Dataset
 
-UAV-based LiDAR dataset for research on 3D point cloud analysis and remote sensing.
+UAV-based LiDAR dataset for research on 3D point cloud analysis.
 
 ---
 
 ## 📌 Overview
 
-This repository introduces the **UAV-LiDAR Dataset**, collected using an unmanned aerial vehicle (UAV) equipped with a LiDAR sensor.
-The dataset is intended to support research in:
+The following figure shows representative LiDAR point cloud samples from four bridge sites included in the UAV-LiDAR Dataset.
+Each example visualizes the semantic components of the bridge structures.
 
-- UAV remote sensing
-- LiDAR-based perception
-- 3D point cloud processing
-
-This dataset is currently provided **prior to journal publication**.
-
+![Bridge examples](images/bridge_overview.png)
 ---
 
 ## 📥 Download the Dataset
