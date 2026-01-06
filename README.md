@@ -31,6 +31,21 @@ The dataset can be downloaded from Google Drive:
 
 ---
 
+## 📊 Dataset Composition
+
+The table below summarizes the point distribution by bridge component class across the four bridge sites.
+
+| Class           | Banwol       | Palgok       | Ssanghak     | Wonli        |
+|-----------------|--------------|--------------|--------------|--------------|
+| Background      | 8,895,556    | 7,771,527    | 6,974,137    | 5,795,047    |
+| Superstructure  | 13,412,111   | 6,380,560    | 5,164,051    | 6,277,791    |
+| Column          | 152,193      | 462,261      | 566,678      | 135,312      |
+| Pier Cap        | 572,463      | 755,539      | 542,155      | 316,920      |
+| Guardrail       | 3,237,522    | 1,230,855    | 974,353      | 1,319,601    |
+| **Total**       | **26,269,845** | **16,600,742** | **14,221,374** | **13,844,671** |
+
+---
+
 ## 📑 License
 
 This dataset is released for **academic research purposes only**.
