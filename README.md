@@ -21,7 +21,7 @@ This dataset is currently provided **prior to journal publication**.
 
 The dataset can be downloaded from Google Drive:
 
-👉 **[Download UAV-LiDAR Dataset (Google Drive)](여기에_구글드라이브_공유링크)**
+👉 **[Download UAV-LiDAR Dataset (Google Drive)](https://drive.google.com/drive/folders/1gy7sL14qG5klqrtRehWWLVLWK1F-sshX?usp=drive_link)**
 
 > Please ensure the link is publicly accessible (view permission).
 
