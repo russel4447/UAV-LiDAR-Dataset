@@ -31,12 +31,6 @@ The dataset can be downloaded from Google Drive:
 
 ---
 
-## 🖼 Sample Data
-
-Example visualizations from the dataset will be provided below.
-
----
-
 ## 📑 License
 
 This dataset is released for **academic research purposes only**.
@@ -46,4 +40,4 @@ This dataset is released for **academic research purposes only**.
 ## 📬 Contact
 
 For questions regarding the dataset, please contact:  
-📧 your_email@domain.com
+📧 russel4447@skku.edu
