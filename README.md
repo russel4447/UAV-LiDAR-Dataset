@@ -14,7 +14,7 @@ Each example visualizes the semantic components of the bridge structures.
 
 ## 📥 Download the Dataset
 
-The dataset can be downloaded from Google Drive:
+The dataset can be downloaded from Zenodo:
 
 👉 **[Will be updated with Zenodo link, UAV LiDAR bridge point cloud dataset)**
 
@@ -34,7 +34,7 @@ The dataset can be downloaded from Google Drive:
 The table below summarizes the point distribution by bridge component class across the four bridge sites.
 
 | Class | Banwol | Palgok | Ssanghak | Wonli | Ipbuk | Seokdap  |
-| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Background** | 8,895,556 | 7,771,527 | 6,974,137 | 5,795,047 | 11,083,066 | 6,744,819 |
 | **Superstructure** | 13,412,111 | 6,380,560 | 5,164,051 | 6,277,791 | 13,077,969 | 7,736,190 |
 | **Column** | 152,193 | 462,261 | 566,678 | 135,312 | 225,958 | 245,512 |
