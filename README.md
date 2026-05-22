@@ -55,9 +55,13 @@ This dataset is released for **academic research purposes only**.
 
 ---
 
-📖 Citation
+## 📖 Citation
+
 If you use this dataset or the framework in your research, please cite our paper:
 
+* [https://doi.org/10.1016/j.autcon.2026.107045](https://doi.org/10.1016/j.autcon.2026.107045)
+
+```bibtex
 @article{lee2026uav,
   title={UAV LiDAR bridge point cloud dataset and hybrid deep learning framework for robust semantic segmentation},
   author={Lee, Changjun and Ko, Dongyoung and Maru, Michael Bekele and Jang, Kitae and Choi, Woongyu and Cha, Gichun and Park, Seunghee},
