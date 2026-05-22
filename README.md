@@ -1,6 +1,9 @@
 # UAV-LiDAR Bridge Dataset
 
-UAV-based LiDAR dataset for research on 3D point cloud analysis.
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.autcon.2026.107045-blue)](https://doi.org/10.1016/j.autcon.2026.107045)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-green)](https://zenodo.org/uploads/18531104)
+
+Official repository for the paper: **"UAV LiDAR bridge point cloud dataset and hybrid deep learning framework for robust semantic segmentation"** published in *Automation in Construction*.
 
 ---
 
@@ -16,7 +19,9 @@ Each example visualizes the semantic components of the bridge structures.
 
 The dataset can be downloaded from Zenodo:
 
-👉 **[Will be updated with Zenodo link, UAV LiDAR bridge point cloud dataset)**
+👉 **[Download Dataset via Zenodo](https://zenodo.org/uploads/18531104)**
+
+*The compressed packages include raw point cloud files (`.bin`), annotated files (`.ply`).*
 
 ---
 
@@ -24,7 +29,7 @@ The dataset can be downloaded from Zenodo:
 
 - **Platform**: DJI Matrice 300 RTK
 - **Sensor**: DJI Jenmuse L1 LiDAR
-- **Data format**: Cloud Compare raw point cloud(.bin) and anotated (.ply)
+- **Data format**: Cloud Compare raw point cloud(`.bin`) and anotated components(`.ply`)
 - **Number of samples**: 6 Datasets
 
 ---
@@ -47,6 +52,22 @@ The table below summarizes the point distribution by bridge component class acro
 ## 📑 License
 
 This dataset is released for **academic research purposes only**.
+
+---
+
+📖 Citation
+If you use this dataset or the framework in your research, please cite our paper:
+
+@article{lee2026uav,
+  title={UAV LiDAR bridge point cloud dataset and hybrid deep learning framework for robust semantic segmentation},
+  author={Lee, Changjun and Ko, Dongyoung and Maru, Michael Bekele and Jang, Kitae and Choi, Woongyu and Cha, Gichun and Park, Seunghee},
+  journal={Automation in Construction},
+  volume={188},
+  pages={107045},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.autcon.2026.107045}
+}
 
 ---
 
