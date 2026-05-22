@@ -72,10 +72,11 @@ If you use this dataset or the framework in your research, please cite our paper
   publisher={Elsevier},
   doi={10.1016/j.autcon.2026.107045}
 }
+```
 
 ---
 
 ## 📬 Contact
 
 For questions regarding the dataset, please contact:  
-📧 russel4447@skku.edu
+📧 russel4447@skku.edu(Changjun Lee, Sungkyunkwan University)
